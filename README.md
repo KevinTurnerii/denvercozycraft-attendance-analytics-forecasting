@@ -1,6 +1,24 @@
 # Denver Cozy Craft Collective — Event Analytics & Forecasting
 
 End-to-end data analytics and business intelligence solution using SQL, Python (Jupyter Notebook), and Power BI to analyze event performance, optimize attendance conversion, and forecast capacity planning strategies.
+
+---
+
+## 📑 Table of Contents
+
+* [Project Overview](#-project-overview)
+* [Business Problem](#-business-problem)
+* [Project Objectives](#-project-objectives)
+* [Data Pipeline](#-end-to-end-data-pipeline)
+* [Key Insights](#-key-insights)
+* [Dashboard Preview](#-dashboard-preview)
+* [Tools & Technologies](#-tools--technologies)
+* [Core Skills Demonstrated](#-core-skills-demonstrated)
+* [Business Impact](#-business-impact)
+* [Repository Structure](#-repository-structure)
+* [Data Validation](#-data-validation)
+* [Conclusion](#-conclusion)
+
 ---
 
 ## 📌 Project Overview
@@ -163,6 +181,7 @@ Developed a 4-page executive dashboard:
 - Data Warehouse Design: Star Schema (Fact & Dimension Tables)  
 - Analytical Layer: KPI computation & forecasting models  
 - Presentation Layer: Interactive BI dashboards  
+
 ---
 
 
